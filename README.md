@@ -7,7 +7,7 @@ Hinweise:
 Das Programm erstellt ansich lediglich Text Dateien durch Umwandlung und/oder Scripte um diese mit anderen Tools konvertieren zu können. Was dafür erforderlich ist ist hier beschrieben:
 
 Installation:
-- Stelle sicher das pip installiert ist mit "python3 get-pip.py"
+- Stelle sicher das pip installiert ist mit "python3 get-pip.py" (Das Script natürlich vorher herunterladen von "https://bootstrap.pypa.io/get-pip.py")
 - Stelle sicher das git installiert ist https://git-scm.com/downloads
 - Gehe zu "https://github.com/rhasspy/piper/releases" und lade das Windows Release herunter. Das entpackt man in ein Unterverzeichnis zb. c:\tts\piper
 - Lade die .json und die .onyx Dateien herunter von "https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0/de/de_DE/thorsten/high" und lege sie direkt in das Verzeichnis

@@ -1,6 +1,8 @@
 # py_epub2hoerbuch
 Erstellt aus epub/rtf/txt Dateien unter Verwendung von TTS Hörbücher
 
+![grafik](https://github.com/user-attachments/assets/07fde4e8-aadb-452d-9d79-9810b733419d)
+
 Hinweise:
 Das Programm erstellt ansich lediglich Text Dateien durch Umwandlung und/oder Scripte um diese mit anderen Tools konvertieren zu können. Was dafür erforderlich ist ist hier beschrieben:
 
@@ -22,3 +24,7 @@ Im grafischen Menü kann man nun eine .epub (eBook Datei), .rtf (Richtext Dokume
 Das dürfte klar sein aber ich sags trotzdem:
 Bitte beachten das dies nur für eigene Dokumente gedacht ist und NICHT dazu um irgendwelche Copyright Verletzungen zu begehen, also bitte keine original Bücher zu Hörbüchern machen welche nicht frei zugänglich sind.h
 Hier ist eine Beispiel Umwandlung in eine Audio Datei zu finden, welche eine Geschichte aus meinem Sci-Fi Geschichten Generator verwendet.
+
+Beispiel Ausgabe mit der Thorsten TTS Stimme via "Hörbuch Script speichern" Funktion (Ton aktivieren!):
+
+https://github.com/user-attachments/assets/e6862833-00a1-463e-ab7c-943072b9abb2

@@ -22,7 +22,8 @@ Im grafischen Menü kann man nun eine .epub (eBook Datei), .rtf (Richtext Dokume
 - - > Das Speichern als .bat Datei sollte in dem Piper Verzeichnis erfolgen zb. als "hoerbuch_erstellen.bat" wenn man dieses Script dann ausführt dauert es je nach Textlänge recht lange (ggf. mehrere Stunden), allerdings hat man anschliessend ein professionel klingendes Audiobuch vom Inhalt.
 
 Das dürfte klar sein aber ich sags trotzdem:
-Bitte beachten das dies nur für eigene Dokumente gedacht ist und NICHT dazu um irgendwelche Copyright Verletzungen zu begehen, also bitte keine original Bücher zu Hörbüchern machen welche nicht frei zugänglich sind.h
+Bitte beachten das dies nur für eigene Dokumente gedacht ist und NICHT dazu um irgendwelche Copyright Verletzungen zu begehen, also bitte keine original Bücher zu Hörbüchern machen welche nicht frei zugänglich sind.
+
 Hier ist eine Beispiel Umwandlung in eine Audio Datei zu finden, welche eine Geschichte aus meinem Sci-Fi Geschichten Generator verwendet.
 
 Beispiel Ausgabe mit der Thorsten TTS Stimme via "Hörbuch Script speichern" Funktion (Ton aktivieren!):
